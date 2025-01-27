@@ -1,8 +1,8 @@
 # Integrate Rust code into Typescript project.
 
 ## Step 1:
-Write and Compile Rust Code to WebAssembly:
-Use Rust and tools like wasm-pack to compile your Rust code to WebAssembly.
+Write and Compile `Rust` Code to `WebAssembly`:
+Use Rust and tools like `wasm-pack` to compile your `Rust` code to `WebAssembly`.
 Install `wasm-pack` if you haven't already:
 ```bash
 cargo install wasm-pack
